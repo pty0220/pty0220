@@ -11,7 +11,7 @@ I am Ph.D. candidate  in Korea institute science and technology school (KIST sch
 I specialized in numerical simulation for medical application.
 Especially, I study about acoustic simulation in the transcranial focused ultrasound field 
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/pty0220/pty0220/coding.gif?raw=true" width="408" height="318" />
 
 #### Main research topic 
 - Acoustic simulation for transcranial focused ultrasound 
